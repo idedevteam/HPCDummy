@@ -1,0 +1,10 @@
+#package specification
+#Mon Nov 05 13:45:43 WIB 2018
+hpcdummy-clazzes=hpcdummy.HPCDummy
+masktools-version=3.0
+hpcdummy-minor=0
+hpcdummy-base=internal
+jcop-packages=hpcdummy
+hpcdummy-aid=68706364756D6D79
+hpcdummy.HPCDummy-aid=48504344554D4D59
+hpcdummy-major=1
